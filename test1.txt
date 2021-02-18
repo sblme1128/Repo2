@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 083E-CC4D
-
- Directory of C:\Users\e606162\OneDrive - County of Los Angeles\Documents\Steve\Git\MyProjects
-
-02/18/2021  03:13 PM    <DIR>          .
-02/18/2021  03:13 PM    <DIR>          ..
-02/18/2021  03:13 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  766,980,816,896 bytes free
+Change1
